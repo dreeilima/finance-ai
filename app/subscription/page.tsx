@@ -1,5 +1,5 @@
-const Subascription = () => {
+const SubascriptionPage = () => {
   return <div>Subascription</div>;
 };
 
-export default Subascription;
+export default SubascriptionPage;
